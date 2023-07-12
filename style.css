@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+#game {
+    margin-top: 50px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+button img {
+    height: 50px;
+    width: 50px;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.playAgainButton {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#playAgainButton {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
